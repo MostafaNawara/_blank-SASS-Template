@@ -1,1 +1,2 @@
-## blank SASS Template
+## Blank SASS Template
+#### By: Mostafa Nawara
