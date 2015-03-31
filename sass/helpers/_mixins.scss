@@ -1,0 +1,7 @@
+// Placeholders
+
+// Mixin
+@mixin transition ($what: all, $length: .5s, $easing: ease-in-out) {
+  -webkit-transition: $what $length $easing;
+          transition: $what $length $easing;
+}
